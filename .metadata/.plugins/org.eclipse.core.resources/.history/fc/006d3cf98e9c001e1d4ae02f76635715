@@ -1,0 +1,12 @@
+
+import java.io.IOException;
+import java.io.PrintWriter; //PrintWriter 클래스는 java io 패키지에 소속
+public class InstanceApp {
+
+	public static void main(String[] args) throws IOException {		// TODO Auto-generated method stub
+		
+	PrintWriter p1 = new PrintWriter("result.txt"); //p1 은 인스턴스
+	p1.write("Hello 1");
+	}
+
+}

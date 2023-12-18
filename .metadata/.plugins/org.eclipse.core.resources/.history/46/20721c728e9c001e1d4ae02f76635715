@@ -1,0 +1,8 @@
+public class InstanceApp {
+
+	public static void main(String[] args) {		// TODO Auto-generated method stub
+		
+		p1 = new PrintWriter("result.txt"); //p1 은 인스턴
+	}
+
+}

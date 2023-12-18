@@ -1,0 +1,18 @@
+1702802368112	Copy compilation unit
+1702802393409	Rename type 'If'
+1702862861776	Copy compilation unit
+1702863141882	Copy compilation unit
+1702865390096	Copy compilation unit
+1702865469904	Extract method 'getVAT'
+1702865662980	Convert local variable 'vatRate' to field
+1702865684370	Convert local variable 'valueOfSupply' to field
+1702865769944	Extract method 'getTotal'
+1702865821933	Extract method 'getExpense'
+1702865903410	Convert local variable 'expenseRate' to field
+1702865938527	Extract method 'getIncome'
+1702866059698	Extract method 'getDivident1'
+1702866074997	Rename method 'getDivident1'
+1702866087364	Extract method 'getDividend2'
+1702866099875	Extract method 'getDividend3'
+1702866198381	Extract method 'print'
+1702876798762	Copy file
