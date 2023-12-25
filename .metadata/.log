@@ -427,3 +427,18 @@ Java Model Exception: Error in Java Model (code 969): MyOOP [in [Working copy] M
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
 !SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-12-25 14:38:24.133
 !MESSAGE MyOOP [in [Working copy] MyOOP.java [in <default> [in <project root> [in OOP]]]] does not exist
+
+!ENTRY org.eclipse.jdt.launching 4 107 2023-12-25 18:39:09.284
+!MESSAGE Launch configuration MyOOP references non-existing project OOP.
+
+!ENTRY org.eclipse.jdt.launching 4 107 2023-12-25 18:39:14.229
+!MESSAGE Launch configuration MyOOP references non-existing project OOP.
+
+!ENTRY org.eclipse.jdt.launching 4 107 2023-12-25 18:39:21.851
+!MESSAGE Launch configuration MyOOP references non-existing project OOP.
+
+!ENTRY org.eclipse.jdt.launching 4 107 2023-12-25 18:39:36.660
+!MESSAGE Launch configuration MyOOP references non-existing project OOP.
+
+!ENTRY org.eclipse.jdt.launching 4 107 2023-12-25 19:33:05.557
+!MESSAGE Launch configuration MyOOP references non-existing project OOP.
